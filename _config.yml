@@ -4,8 +4,8 @@ title: DJB Contracting
 description: BMS Controls Engineer
 
 baseurl: /test #name of GitHub repository
-url: #custom url to be used instead of GitHub repository
-email: #
+url: www.djb.ltd
+email: email
 
 
 highlighter: rouge
