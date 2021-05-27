@@ -1,3 +1,10 @@
+---
+title:
+layout: default
+permalink: /services/
+published: true
+---
+
 Services
 ============
 
