@@ -7,9 +7,9 @@ profile:
 published: true
 ---
 
-[Email](mailto:email) - [Phone](tel:phone) 
-
 Damian Biggs is the sole owner of DJB Contracting, he is experienced in all aspects of BMS design, commissioning & site installation. 
+
+[Email](mailto:email) - [Phone](tel:phone) 
 
 Having 30+ years of experience in general electrical contracting we are able to provide services from Domestic electrical installation to commercial site installation, testing & commissioning.
 
